@@ -15,10 +15,11 @@ Please feel free to provide any suggestions either through the pull-request or a
 - [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 - [Add and Search Word - Data structure design](https://www.lintcode.com/problem/add-and-search-word-data-structure-design/description)
 - [Design Twitter](https://www.lintcode.com/problem/design-twitter/description)
-- **Question:** Use minimum bombs to find out the `N` sized ship in `p x r` matrix. Here `p >> N & r >> N`.  <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
+- **Question:** Use minimum bombs to find out the `N` sized ship in `pxr` matrix. Here `p>>N & r>>N`.  <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
   ```
   You can divide p x r matrix in many N x N matrix. Then put the bomb diagonally in each N x N matrix. 
   ```
+- **Question:** Create a function to put mines in `mxn` matrix. Find out the distance of each grid elements from the nearest mine. <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
 
 ## Competitive Coding Questions:
 - [Word Break](https://leetcode.com/problems/word-break-ii/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
