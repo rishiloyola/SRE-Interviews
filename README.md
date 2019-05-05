@@ -15,7 +15,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 - [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 - [Add and Search Word - Data structure design](https://www.lintcode.com/problem/add-and-search-word-data-structure-design/description)
 - [Design Twitter](https://www.lintcode.com/problem/design-twitter/description)
-- **Question:** Use minimum amount of bombs to find out the `N` sized ship in `p x r` matrix. Here `p >> N & r >> N`. <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
+- **Question:** Use minimum bombs to find out the `N` sized ship in `p x r` matrix. Here `p >> N & r >> N`. <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
   ```
   You can divide p x r matrix in many N x N matrix. Then put the bomb diagonally in each N x N matrix. 
   ```
