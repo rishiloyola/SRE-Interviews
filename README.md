@@ -16,6 +16,8 @@ Please feel free to provide any suggestions either through the pull-request or a
 - [Add and Search Word - Data structure design](https://www.lintcode.com/problem/add-and-search-word-data-structure-design/description)
 - [Design Twitter](https://www.lintcode.com/problem/design-twitter/description)
 
+## Competitive Coding Questions:
+- [Word Break](https://leetcode.com/problems/word-break-ii/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 
 ## Linux troubleshooting
 - CPU is under high I/O. How to find the issue?
