@@ -59,3 +59,8 @@ Please feel free to provide any suggestions either through the pull-request or a
 - Design distributed key-value pair system.
 - How would you shard SQL databases
 - Design storage system for tiny url website
+
+
+## Home Assignment
+- [Scheduler Design Mesosphere](https://github.com/chuchao333/mesosphere-challenge)
+- [Resource Manager Databricks](https://github.com/awelm/resource-manager)
