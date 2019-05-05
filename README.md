@@ -1,6 +1,6 @@
 # SRE-Interviews
 
-I am preparing the list of interview questions for SRE/PE role in this repositry to help others to prepare for their interviews.
+I am preparing the list of interview questions for SRE/PE role in this repository to help others to prepare for their interviews.
 
 Please feel free to provide any suggestions either through the pull-request or an issue.
 
