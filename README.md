@@ -28,6 +28,13 @@ Please feel free to provide any suggestions either through the pull-request or a
 - You can’t see your mounted filesystem. What can be the issue? etc.
 - You are trying to create a new process but it says no more process ids what can be the issue? (fork bomb, reached to ulimit etc)
 - How would you troubleshoot network communication between two servers?
+- **Question:** You are seeing the high workload on your CPU. How would you identify the problem? <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
+  ```
+  Now there can be two cases:
+  1) It is happening because of CPU intensive processes
+  2) Or it may be due to high I/O.
+  Next you need to narrow down these cases by using various tools. Use top command to check I/O WA time. Checkout utime command. Find out which process is causing this trouble. Then use strace or perf command to find out which function is causing the problem. Then check out which system calls this function is generating. This problem was because of the RAID in the file system. RAID performs sync operation after a specific duration and during that it freezes all read/write operations, From the system call list, you can find out the file system path. Use mount command to find out filesystem type. Now check the configurations and solve it.
+  ```
 
 
 ## System Internals
