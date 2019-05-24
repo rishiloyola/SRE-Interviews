@@ -64,7 +64,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 
 ## System Design
 - Design basic api rate limiter
-- How many machines do you need when you design an online photo uploading service?(Include SPOF)
+- How many machines do you need when you design an online photo uploading service?(Include SPOF, load balancer) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 - Design message passing system like kafka
 - Design distributed key-value pair system.
 - How would you shard SQL databases
