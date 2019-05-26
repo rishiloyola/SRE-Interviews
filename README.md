@@ -25,6 +25,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 
 ## Competitive Coding Questions:
 - [Word Break](https://leetcode.com/problems/word-break-ii/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
+- **Question:** Given a string with special character `*`. Replace all the stars in the given string by all the characters and generate all possible strings. Example: `ab*d`. Now generate strings like ab1d, ab2d, etc. <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 
 ## Linux troubleshooting
 - CPU is under high I/O. How to find the issue?
