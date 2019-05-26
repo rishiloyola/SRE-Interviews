@@ -22,6 +22,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 - **Question:** Create a function to put mines in `mxn` matrix. Find out the distance of each grid elements from the nearest mine. <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
 - **Question:** Given a list of servers and ports write a script to check if you are able to connect on that port. <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
 - **Question:** Obfuscate local parts of email addresses found in all HTML files under a folder (also subfolders). It is very basic question of file I/O and string manipulation.  <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
+- [Friend Requests](https://www.lintcode.com/problem/friend-request/description)<img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
 
 ## Competitive Coding Questions:
 - [Word Break](https://leetcode.com/problems/word-break-ii/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
