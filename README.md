@@ -1,8 +1,9 @@
 # SRE-Interviews
 
-I am preparing the list of interview questions for SRE/PE role in this repository to help others to prepare for their interviews. 
+I am preparing the list of interview questions for SRE/PE role in this repository to help others to prepare for their interviews. Most of these questions are seen before during my interviews.
 
-Please feel free to provide any suggestions either through the pull-request or an issue.
+Please feel free to provide any suggestions either through the pull-request or an issue. Please feel free to add your interview questions in this repo.
+
 
 ## Practical Coding Questions:
 - [Design In-Memory File System](https://leetcode.com/articles/design-in-memory-file-system/)
@@ -23,6 +24,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 - **Question:** Given a list of servers and ports write a script to check if you are able to connect on that port. <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
 - **Question:** Obfuscate local parts of email addresses found in all HTML files under a folder (also subfolders). It is very basic question of file I/O and string manipulation.  <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
 - [Friend Requests](https://www.lintcode.com/problem/friend-request/description)<img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
+- **Question:** Identify if there is a SQL injection in the given query. Cover all the corner cases. Basically it was string manipulation question. You just need to check the structure of string inside any double quotation. [Databricks](https://databricks.com/)
 
 ## Competitive Coding Questions:
 - [Word Break](https://leetcode.com/problems/word-break-ii/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
