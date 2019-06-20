@@ -37,7 +37,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 - How to increase your I/O?
 - How to tune I/O?
 - You can’t see your mounted filesystem. What can be the issue? etc.
-- You are trying to create a new process but it says no more process ids what can be the issue? (fork bomb, reached to ulimit etc)
+- Someone started forkbomb on your system how would you stop it?  <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 - How would you troubleshoot network communication between two servers?
 - **Question:** You are seeing the high workload on your CPU. How would you identify the problem? <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
   ```
@@ -79,3 +79,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 ## Home Assignment
 - [Scheduler Design Mesosphere](https://github.com/chuchao333/mesosphere-challenge)
 - [Resource Manager Databricks](https://github.com/awelm/resource-manager)
+
+
+## Networking
+- Explain routing protocol. You can pick any routing protocol.  <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
