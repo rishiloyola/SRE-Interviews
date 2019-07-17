@@ -29,6 +29,8 @@ Please feel free to provide any suggestions either through the pull-request or a
 ## Competitive Coding Questions:
 - [Word Break](https://leetcode.com/problems/word-break-ii/) <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 - **Question:** Given a string with special character `*`. Replace all the stars in the given string by all the characters and generate all possible strings. Example: `ab*d`. Now generate strings like ab1d, ab2d, etc. <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
+- An array should be split into two halves such that sum of two arrays is same (order of elements should not be changed) <img src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="20" title="Facebook" />
+
 
 ## Linux troubleshooting
 - CPU is under high I/O. How to find the issue?
@@ -53,7 +55,8 @@ Please feel free to provide any suggestions either through the pull-request or a
   2) Someone started fork bomb. There are no PIDs available actually.
   3) All PIDs have specific fd in the file system. You are running out of inodes.
   ```
-
+  - Unable to boot OS. What can be the issue?
+ 
 
 ## System Internals
 - How do fork and exec work?
