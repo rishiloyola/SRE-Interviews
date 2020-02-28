@@ -69,6 +69,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 - What (really) happens when you type ls -l in the shell
 - What are the difference between external and internal kill command <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 - What are the inbuilt Linux commands? <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
+- Difference between RSS and VSZ?
 
 
 ## System Design
