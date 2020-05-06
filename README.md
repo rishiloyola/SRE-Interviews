@@ -16,14 +16,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 - [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)
 - [Add and Search Word - Data structure design](https://www.lintcode.com/problem/add-and-search-word-data-structure-design/description)
 - [Design Twitter](https://www.lintcode.com/problem/design-twitter/description)
-- **Question:** Use minimum bombs to find out the `N` sized ship in `pxr` matrix. Here `p>>N & r>>N`.
-  ```
-  You can divide p x r matrix in many N x N matrix. Then put the bomb diagonally in each N x N matrix. 
-  ```
-- **Question:** Create a function to put mines in `mxn` matrix. Find out the distance of each grid elements from the nearest mine.
 - **Question:** Given a list of servers and ports write a script to check if you are able to connect on that port.
-- **Question:** Obfuscate local parts of email addresses found in all HTML files under a folder (also subfolders). It is very basic question of file I/O and string manipulation.  
-- [Friend Requests](https://www.lintcode.com/problem/friend-request/description)
 - **Question:** Identify if there is a SQL injection in the given query. Cover all the corner cases. Basically it was string manipulation question. You just need to check the structure of string inside any double quotation. [Databricks](https://databricks.com/)
 
 ## Competitive Coding Questions:
@@ -40,13 +33,6 @@ Please feel free to provide any suggestions either through the pull-request or a
 - You can’t see your mounted filesystem. What can be the issue? etc.
 - Someone started forkbomb on your system how would you stop it?  <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
 - How would you troubleshoot network communication between two servers?
-- **Question:** You are seeing the high workload on your CPU. How would you identify the problem?
-  ```
-  Now there can be two cases:
-  1) It is happening because of CPU intensive processes
-  2) Or it may be due to high I/O.
-  Next you need to narrow down these cases by using various tools. Use top command to check I/O WA time. Checkout utime command. Find out which process is causing this trouble. Then use strace or perf command to find out which function is causing the problem. Then check out which system calls this function is generating. This problem was because of the RAID in the file system. RAID performs sync operation after a specific duration and during that it freezes all read/write operations, From the system call list, you can find out the file system path. Use mount command to find out filesystem type. Now check the configurations and solve it.
-  ```
 - **Question:** You are trying to run the command but it says no more PIDs available. What can be the reason? How will you solve the issue? <img src="https://edent.github.io/SuperTinyIcons/images/svg/google.svg" width="20" title="Google" />
   ```
   Try to think about it from every aspects. There can be following cases
