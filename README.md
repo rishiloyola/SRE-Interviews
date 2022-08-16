@@ -46,7 +46,7 @@ Please feel free to provide any suggestions either through the pull-request or a
 
 ## System Internals
 - How do fork and exec work?
-- Linux booting process
+- [Linux booting](https://www.scaler.com/topics/operating-system/what-is-booting/) process
 - What is swap memory?
 - Process memory layout
 - What is virtual memory?
